@@ -1,7 +1,5 @@
 import * as THREE from "three";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
-import particlesVertexShader from "./shaders/particles/vertex.glsl";
-import particlesFragmentShader from "./shaders/particles/fragment.glsl";
 
 /**
  * Base
